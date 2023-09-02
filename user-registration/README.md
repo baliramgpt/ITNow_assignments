@@ -1,6 +1,8 @@
 # User Registration App
 
-![User Registration App Screenshot](./public/Screenshot1.png)(./public/Screenshot2.png)(./public/Screenshot3.png)
+![User Registration App- 1 Screenshot](./public/Screenshot1.png)
+![User Registration App- 2 Screenshot](./public/Screenshot2.png)
+![User Registration App- 3 Screenshot](./public/Screenshot3.png)
 
 This is a simple User Registration Application built using React, TypeScript. The application allows users to register by providing their name, email, date of birth, city, and pincode. It also includes a user list feature and basic error handling.
 
